@@ -1,5 +1,5 @@
-Android - csdn demoÁ·Ï°
-ÒıÓÃ¿â£º
+Android - csdn demoç»ƒä¹ 
+å¼•ç”¨åº“ï¼š
 ..\ViewPagerIndicator
 ..\XListView
 ..\universalimageloader
