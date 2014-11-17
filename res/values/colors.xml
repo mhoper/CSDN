@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#ff00B9E9</color>
+    <color name="white">#ffffffff</color>
+    <color name="transparentblue">#5000B9E9</color>
+    <color name="bg">#ffE0E0E0</color>
+    <color name="black">#ff000000</color>
+    <color name="nomalGray">#ff323232</color>
+    <color name="transparent">#00000000</color>
+    <color name="wangyibg">#f0f0f0</color>
+    <color name="coffee">#622f1b</color>
+    <color name="transparentblack">#88000000</color>
+</resources>
